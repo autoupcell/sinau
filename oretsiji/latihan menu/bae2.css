@@ -1,0 +1,41 @@
+h1{color: navy;}
+.judul {border: none;
+border-collapse: separate;
+border-spacing: 5px;
+}
+
+.jud1{border: none;
+  border-radius: 10px;
+  background: green;
+  font-family: "wolu";
+  padding: 5px;
+}
+
+a{color: white;}
+
+
+
+
+
+
+
+
+
+h3{font-family: "pitu"}
+
+
+table{width: 100%;
+  font-size: 100%;
+}
+table,th,td{border: 1px solid navy;
+border-collapse: collapse;}
+.bang{color: navy}
+tbody{font-family: "wolu";
+  color: red
+}
+td{font-family: "pitu";
+  text-align: center;
+  color: black;
+  padding: 5px;
+}
+
